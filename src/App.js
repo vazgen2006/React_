@@ -3,7 +3,6 @@ import Center from "./Todo/Center";
 import Upper from "./Todo/Upper";
 import Header from "./Todo/Header";
 
-
 function App() {
   return (
     <div>
